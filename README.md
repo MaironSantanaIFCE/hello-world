@@ -1,4 +1,4 @@
-# Meu primeiro repositório ✨
+# Meu primeiro repositório :smile:
 
 ## Sobre
 Pequeno projeto para praticar **GitHub** e **Markdown**.
