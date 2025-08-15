@@ -7,6 +7,6 @@ Um projeto simples para aprender criar repositórios e editar textos com markdow
 - Interesse: Python, Javascript, Web, Jogos
 
 ## Objetivos desse repositório
-- [] Criar um repositorio
-- [] Editar um README com Markdown
-- [] Aprender mais sobre versionamento
+- [ ] Criar um repositorio
+- [ ] Editar um README com Markdown
+- [ ] Aprender mais sobre versionamento
