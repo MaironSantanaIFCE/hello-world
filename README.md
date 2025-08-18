@@ -1,4 +1,5 @@
 # Meu primeiro repositório :smile:
+![ifce-logo](<img width="698" height="281" alt="image" src="https://github.com/user-attachments/assets/0fae8a84-8d1b-455c-b062-609ae4b91105" />)
 
 ## Sobre
 Pequeno projeto para praticar **GitHub** e **Markdown**.
